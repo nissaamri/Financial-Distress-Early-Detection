@@ -1,0 +1,4770 @@
+[
+  {
+    "Ticker": "AAL",
+    "Company Name": "American Airlines Group, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3608,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9131,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.767,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5921,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5143,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AAL",
+    "Company Name": "American Airlines Group, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3673,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9131,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7371,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5921,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4999,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AAL",
+    "Company Name": "American Airlines Group, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4248,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.4845,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4081,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Current Ratio",
+        "shap_value": -0.3805,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.3185,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AAPL",
+    "Company Name": "Apple Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.261,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8596,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7471,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5633,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4729,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AAPL",
+    "Company Name": "Apple Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.261,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8596,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7471,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5885,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5238,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AAPL",
+    "Company Name": "Apple Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1722,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8596,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7471,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5346,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4729,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ABBV",
+    "Company Name": "AbbVie Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1713,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8596,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7752,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6022,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5098,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ABBV",
+    "Company Name": "AbbVie Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1646,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8256,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7528,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5603,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5098,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ABBV",
+    "Company Name": "AbbVie Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3664,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9053,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7648,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6073,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4799,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ABT",
+    "Company Name": "Abbott Laboratories",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5551,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.972,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ABT",
+    "Company Name": "Abbott Laboratories",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9639,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6828,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4805,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ABT",
+    "Company Name": "Abbott Laboratories",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5551,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9403,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7268,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6828,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ADBE",
+    "Company Name": "Adobe Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4732,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9982,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7314,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7268,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5613,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ADBE",
+    "Company Name": "Adobe Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.496,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -1.0159,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7642,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7314,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5718,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "ADBE",
+    "Company Name": "Adobe Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.497,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9605,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7642,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5441,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AMC",
+    "Company Name": "AMC Entertainment Holdings, Inc",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.5943,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5458,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -0.4576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Current Ratio",
+        "shap_value": -0.4158,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.2687,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AMC",
+    "Company Name": "AMC Entertainment Holdings, Inc",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2003,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.552,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4137,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Current Ratio",
+        "shap_value": -0.3787,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.2942,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AMC",
+    "Company Name": "AMC Entertainment Holdings, Inc",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2003,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5295,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Current Ratio",
+        "shap_value": -0.3787,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.3251,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.2942,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AMZN",
+    "Company Name": "Amazon.com, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5205,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9543,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7036,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5991,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5085,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AMZN",
+    "Company Name": "Amazon.com, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5205,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9304,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6986,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6667,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5594,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "AMZN",
+    "Company Name": "Amazon.com, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5205,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9304,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6986,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6667,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5594,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BB",
+    "Company Name": "BlackBerry Limited",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2724,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7943,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.732,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.476,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": 0.4611,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BB",
+    "Company Name": "BlackBerry Limited",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2807,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7313,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5446,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.4896,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.3938,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BB",
+    "Company Name": "BlackBerry Limited",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2407,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7413,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5099,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Operating Cash Flow Ratio",
+        "shap_value": 0.2876,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": 0.2627,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BLNK",
+    "Company Name": "Blink Charging Co.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 0.8094,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.6556,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6526,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.6241,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4142,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BLNK",
+    "Company Name": "Blink Charging Co.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.3027,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6612,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.6241,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.5712,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": 0.2732,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BLNK",
+    "Company Name": "Blink Charging Co.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.32,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.6619,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6596,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6171,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.5019,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BYND",
+    "Company Name": "Beyond Meat, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 0.972,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7596,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7363,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.3251,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": 0.3148,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BYND",
+    "Company Name": "Beyond Meat, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6625,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5065,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4549,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4235,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": 0.3627,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "BYND",
+    "Company Name": "Beyond Meat, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2147,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -1.0198,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6618,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4287,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": 0.3687,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CCL",
+    "Company Name": "Carnival Corporation Ltd.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2726,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.7074,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5416,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5164,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.3956,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CCL",
+    "Company Name": "Carnival Corporation Ltd.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.159,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8256,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7564,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5451,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5203,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CCL",
+    "Company Name": "Carnival Corporation Ltd.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.159,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8256,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7594,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5451,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5203,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CHPT",
+    "Company Name": "ChargePoint Holdings, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -0.9697,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.8122,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7418,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4512,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4448,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CHPT",
+    "Company Name": "ChargePoint Holdings, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -0.9878,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7916,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7308,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4686,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4512,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CHPT",
+    "Company Name": "ChargePoint Holdings, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "ROA",
+        "shap_value": 0.8208,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 0.6594,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.6384,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6259,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4538,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CLOV",
+    "Company Name": "Clover Health Investments, Corp",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3263,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.6124,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.5707,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.5289,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.3363,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CLOV",
+    "Company Name": "Clover Health Investments, Corp",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.4594,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6386,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.3869,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.2785,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.2566,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CLOV",
+    "Company Name": "Clover Health Investments, Corp",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.2864,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5951,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4962,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.4412,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.2343,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "COST",
+    "Company Name": "Costco Wholesale Corporation",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4955,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9543,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7138,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5839,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5159,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "COST",
+    "Company Name": "Costco Wholesale Corporation",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4955,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9428,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7138,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5664,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5006,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "COST",
+    "Company Name": "Costco Wholesale Corporation",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5237,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9302,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7036,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5839,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4932,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CSCO",
+    "Company Name": "Cisco Systems, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5497,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9417,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.697,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CSCO",
+    "Company Name": "Cisco Systems, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.2781,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.971,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7495,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6493,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.541,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CSCO",
+    "Company Name": "Cisco Systems, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5092,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9605,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7352,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6667,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5336,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CVNA",
+    "Company Name": "Carvana Co.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.2128,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8904,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7554,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4871,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.3724,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CVNA",
+    "Company Name": "Carvana Co.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.052,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7818,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5749,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5001,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.4081,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CVNA",
+    "Company Name": "Carvana Co.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.915,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -0.8744,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7715,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5749,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5141,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CVX",
+    "Company Name": "Chevron Corporation",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5315,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9087,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6986,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6828,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5594,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CVX",
+    "Company Name": "Chevron Corporation",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5205,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9087,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6833,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.645,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "CVX",
+    "Company Name": "Chevron Corporation",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5205,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9199,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6884,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.645,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "FUBO",
+    "Company Name": "fuboTV Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.6209,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.5724,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5329,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -0.4553,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Current Ratio",
+        "shap_value": -0.3941,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "FUBO",
+    "Company Name": "fuboTV Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.0411,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.7154,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.539,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4211,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Current Ratio",
+        "shap_value": -0.357,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GME",
+    "Company Name": "GameStop Corporation",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.4654,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6478,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.3927,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.2597,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.2551,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GME",
+    "Company Name": "GameStop Corporation",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.4096,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5543,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.4529,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.3856,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.3242,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GME",
+    "Company Name": "GameStop Corporation",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3742,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9526,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6945,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6601,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4076,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GOOGL",
+    "Company Name": "Alphabet Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5033,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9304,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7021,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5564,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GOOGL",
+    "Company Name": "Alphabet Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5033,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9304,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7021,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5564,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GOOGL",
+    "Company Name": "Alphabet Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5033,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9304,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7021,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5564,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GPRO",
+    "Company Name": "GoPro, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "ROA",
+        "shap_value": -0.4242,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4147,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.3846,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": 0.3269,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Operating Cash Flow Ratio",
+        "shap_value": 0.2624,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GPRO",
+    "Company Name": "GoPro, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2277,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7665,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6406,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.3884,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.3832,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "GPRO",
+    "Company Name": "GoPro, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.227,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.4512,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.3594,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.3131,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.2859,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "HD",
+    "Company Name": "Home Depot, Inc. (The)",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.0845,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8711,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7594,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5369,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4847,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "HD",
+    "Company Name": "Home Depot, Inc. (The)",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1733,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8711,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7594,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5369,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4847,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "HD",
+    "Company Name": "Home Depot, Inc. (The)",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1623,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8711,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7564,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5369,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4847,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "JNJ",
+    "Company Name": "Johnson & Johnson",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.2059,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.972,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6899,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "JNJ",
+    "Company Name": "Johnson & Johnson",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5092,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.972,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6667,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "JNJ",
+    "Company Name": "Johnson & Johnson",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3667,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.971,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6667,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5336,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "JPM",
+    "Company Name": "JP Morgan Chase & Co.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.0201,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8378,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6977,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.688,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5604,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "JPM",
+    "Company Name": "JP Morgan Chase & Co.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.4498,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.91,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7351,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6628,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5604,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "JPM",
+    "Company Name": "JP Morgan Chase & Co.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.3524,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8266,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.688,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6431,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5604,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "KO",
+    "Company Name": "Coca-Cola Company (The)",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1623,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8711,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7818,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6424,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5357,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "KO",
+    "Company Name": "Coca-Cola Company (The)",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8733,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7818,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6045,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5203,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4797,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "KO",
+    "Company Name": "Coca-Cola Company (The)",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8848,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7818,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6424,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5357,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.5095,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "KSS",
+    "Company Name": "Kohl's Corporation",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.5603,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": 0.4363,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.3799,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.327,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.3106,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "KSS",
+    "Company Name": "Kohl's Corporation",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4698,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9543,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6956,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5839,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5159,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "KSS",
+    "Company Name": "Kohl's Corporation",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4882,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5839,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.4597,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.3429,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Operating Cash Flow Ratio",
+        "shap_value": -0.3057,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LCID",
+    "Company Name": "Lucid Group, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.2025,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7232,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7013,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4547,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": 0.3457,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LCID",
+    "Company Name": "Lucid Group, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.0839,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.728,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.6959,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4613,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": 0.3861,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LCID",
+    "Company Name": "Lucid Group, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3228,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.8033,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6283,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.5161,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.4275,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LIN",
+    "Company Name": "Linde plc",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4912,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.971,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6493,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5336,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LIN",
+    "Company Name": "Linde plc",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4807,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.971,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.775,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6493,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5336,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LIN",
+    "Company Name": "Linde plc",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4308,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.971,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7791,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6493,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5336,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LUMN",
+    "Company Name": "Lumen Technologies, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.0052,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.9387,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.6969,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6319,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4747,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LUMN",
+    "Company Name": "Lumen Technologies, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2991,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.7074,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5464,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5323,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.3902,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "LUMN",
+    "Company Name": "Lumen Technologies, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.4883,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.4903,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4196,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.3006,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Operating Cash Flow Ratio",
+        "shap_value": -0.2901,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MCD",
+    "Company Name": "McDonald's Corporation",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3643,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9947,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7938,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7314,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5104,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MCD",
+    "Company Name": "McDonald's Corporation",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3737,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9508,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7938,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.498,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MCD",
+    "Company Name": "McDonald's Corporation",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3513,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9393,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7714,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6724,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4827,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MSFT",
+    "Company Name": "Microsoft Corporation",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5316,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9543,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.697,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MSFT",
+    "Company Name": "Microsoft Corporation",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5551,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9417,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6818,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MSFT",
+    "Company Name": "Microsoft Corporation",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5497,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9304,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6767,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MVIS",
+    "Company Name": "Microvision, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.343,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.6311,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6042,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.5575,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.439,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MVIS",
+    "Company Name": "Microvision, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.0271,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7677,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6713,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.6311,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.445,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "MVIS",
+    "Company Name": "Microvision, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "ROA",
+        "shap_value": 0.7616,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6763,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.5839,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4542,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4365,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NCLH",
+    "Company Name": "Norwegian Cruise Line Holdings",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1494,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8256,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7564,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5451,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5203,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NCLH",
+    "Company Name": "Norwegian Cruise Line Holdings",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1494,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8256,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7564,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5451,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5203,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NCLH",
+    "Company Name": "Norwegian Cruise Line Holdings",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1494,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8256,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7564,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5451,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5203,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NEE",
+    "Company Name": "NextEra Energy, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1812,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.7974,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7498,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5603,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5098,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NEE",
+    "Company Name": "NextEra Energy, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1812,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.7974,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7498,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5603,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5098,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NEE",
+    "Company Name": "NextEra Energy, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.168,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.7974,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7528,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5603,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5098,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NKE",
+    "Company Name": "Nike, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3418,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -1.0159,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7785,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6219,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5313,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NKE",
+    "Company Name": "Nike, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3922,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -1.0159,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7642,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6371,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5119,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NKE",
+    "Company Name": "Nike, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.443,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -1.0159,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7744,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6371,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5193,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NVDA",
+    "Company Name": "NVIDIA Corporation",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4593,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9824,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.775,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.561,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NVDA",
+    "Company Name": "NVIDIA Corporation",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3821,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9843,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7268,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7096,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5733,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "NVDA",
+    "Company Name": "NVIDIA Corporation",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.3529,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9087,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.692,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.601,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.51,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "OPEN",
+    "Company Name": "Opendoor Technologies Inc",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.0434,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.7333,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5403,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.4144,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.4076,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "OPEN",
+    "Company Name": "Opendoor Technologies Inc",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.0598,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5459,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.4804,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4372,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.3953,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "OPEN",
+    "Company Name": "Opendoor Technologies Inc",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.0804,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7878,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4193,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.4006,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.3305,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PARA",
+    "Company Name": "Banzai International, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2393,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.777,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.728,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.425,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Current Ratio",
+        "shap_value": -0.3787,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PARA",
+    "Company Name": "Banzai International, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.1912,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7701,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6919,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4266,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Current Ratio",
+        "shap_value": -0.3408,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PARA",
+    "Company Name": "Banzai International, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1606,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7474,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6458,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.5056,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4629,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PEP",
+    "Company Name": "Pepsico, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1713,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8596,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7752,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6022,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5098,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PEP",
+    "Company Name": "Pepsico, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1713,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8596,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7752,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6022,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5098,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PEP",
+    "Company Name": "Pepsico, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1713,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8596,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7752,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6022,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5098,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PG",
+    "Company Name": "Procter & Gamble Company (The)",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4151,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9369,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7633,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5921,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5441,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PG",
+    "Company Name": "Procter & Gamble Company (The)",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4151,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9369,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7857,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5921,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5441,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PG",
+    "Company Name": "Procter & Gamble Company (The)",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4151,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9369,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7857,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5921,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5441,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PLUG",
+    "Company Name": "Plug Power, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5697,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.5943,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "CFO to Debt",
+        "shap_value": -0.5869,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4416,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.4335,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PLUG",
+    "Company Name": "Plug Power, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.3161,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7736,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6898,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4699,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.3742,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PLUG",
+    "Company Name": "Plug Power, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2186,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.8005,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7324,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4826,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": 0.3093,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PTON",
+    "Company Name": "Peloton Interactive, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.0612,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.8153,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4666,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.3407,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.3348,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PTON",
+    "Company Name": "Peloton Interactive, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.011,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5264,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.3862,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.3755,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.2802,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "PTON",
+    "Company Name": "Peloton Interactive, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2986,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5287,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Asset Turnover",
+        "shap_value": -0.3717,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.3236,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Operating Cash Flow Ratio",
+        "shap_value": -0.2901,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "RIVN",
+    "Company Name": "Rivian Automotive, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.2156,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.8073,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7427,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4603,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4547,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "RIVN",
+    "Company Name": "Rivian Automotive, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.017,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.8209,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7634,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.481,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": 0.3347,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "RIVN",
+    "Company Name": "Rivian Automotive, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 0.912,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.7088,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.6241,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.539,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4138,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "SPCE",
+    "Company Name": "Virgin Galactic Holdings, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.1438,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.7882,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7225,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4703,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4386,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "SPCE",
+    "Company Name": "Virgin Galactic Holdings, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.0512,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.8285,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7084,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4747,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": 0.4703,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "SPCE",
+    "Company Name": "Virgin Galactic Holdings, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.2586,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": 0.8111,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": 0.7084,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4747,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": 0.3029,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "TMO",
+    "Company Name": "Thermo Fisher Scientific Inc",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4064,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -1.0264,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7791,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7314,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5613,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "TMO",
+    "Company Name": "Thermo Fisher Scientific Inc",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.493,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9824,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.775,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "TMO",
+    "Company Name": "Thermo Fisher Scientific Inc",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4277,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -1.0264,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7791,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7314,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5613,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "UPST",
+    "Company Name": "Upstart Holdings, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6643,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.625,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6062,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5208,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 0.4842,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "UPST",
+    "Company Name": "Upstart Holdings, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.3185,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6843,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Debt-to-Equity",
+        "shap_value": -0.6456,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.545,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5208,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "UPST",
+    "Company Name": "Upstart Holdings, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.2688,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.8966,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7268,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.688,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5464,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "V",
+    "Company Name": "Visa Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4935,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -1.0159,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7314,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5613,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "V",
+    "Company Name": "Visa Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4017,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.972,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7576,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "V",
+    "Company Name": "Visa Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4308,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9824,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7791,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "WBD",
+    "Company Name": "Warner Bros. Discovery, Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.5306,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.4404,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.4076,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "Operating Cash Flow Ratio",
+        "shap_value": -0.3197,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.2889,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "WBD",
+    "Company Name": "Warner Bros. Discovery, Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": 1.4755,
+        "effect": "increases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5198,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.3776,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Operating Cash Flow Ratio",
+        "shap_value": -0.3197,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": 0.3188,
+        "effect": "increases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "WBD",
+    "Company Name": "Warner Bros. Discovery, Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4325,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9906,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.5645,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5392,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Cash Ratio",
+        "shap_value": -0.4623,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "WMT",
+    "Company Name": "Walmart Inc.",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4719,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9605,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.749,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5664,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5006,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "WMT",
+    "Company Name": "Walmart Inc.",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.4719,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9506,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7182,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5664,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5006,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "WMT",
+    "Company Name": "Walmart Inc.",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5002,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9506,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.7081,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.5664,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.4932,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "XOM",
+    "Company Name": "ExxonMobil Holdings Corporation",
+    "Year": "2023",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5437,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9304,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.7046,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.692,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "XOM",
+    "Company Name": "ExxonMobil Holdings Corporation",
+    "Year": "2024",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5437,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9087,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.692,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.6828,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  },
+  {
+    "Ticker": "XOM",
+    "Company Name": "ExxonMobil Holdings Corporation",
+    "Year": "2025",
+    "top_risk_drivers": [
+      {
+        "feature": "CFO to Net Income",
+        "shap_value": -1.5327,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Net Profit Margin",
+        "shap_value": -0.9087,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "ROA",
+        "shap_value": -0.6767,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "Interest Coverage",
+        "shap_value": -0.645,
+        "effect": "decreases risk"
+      },
+      {
+        "feature": "EBIT Margin",
+        "shap_value": -0.5489,
+        "effect": "decreases risk"
+      }
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+Company Name,Ticker,Year,Distress Status,Distress Event,Distress Event Year
+American Airlines Group Inc.,AAL,2023,1,Negative Stockholder Equity / Excessive Leverage,2023.0
+American Airlines Group Inc.,AAL,2024,0,,
+American Airlines Group Inc.,AAL,2025,0,,
+Apple Inc.,AAPL,2023,0,,
+Apple Inc.,AAPL,2024,0,,
+Apple Inc.,AAPL,2025,0,,
+AbbVie Inc.,ABBV,2023,0,,
+AbbVie Inc.,ABBV,2024,0,,
+AbbVie Inc.,ABBV,2025,0,,
+Abbott Laboratories,ABT,2023,0,,
+Abbott Laboratories,ABT,2024,0,,
+Abbott Laboratories,ABT,2025,0,,
+Adobe Inc.,ADBE,2023,0,,
+Adobe Inc.,ADBE,2024,0,,
+Adobe Inc.,ADBE,2025,0,,
+"AMC Entertainment Holdings, Inc.",AMC,2023,1,Severe Debt Restructuring & Dilution,2023.0
+"AMC Entertainment Holdings, Inc.",AMC,2024,0,,
+"AMC Entertainment Holdings, Inc.",AMC,2025,0,,
+"Amazon.com, Inc.",AMZN,2023,0,,
+"Amazon.com, Inc.",AMZN,2024,0,,
+"Amazon.com, Inc.",AMZN,2025,0,,
+BlackBerry Limited,BB,2023,1,Strategic Review & Debt Refinancing,2024.0
+BlackBerry Limited,BB,2024,1,Strategic Review & Debt Refinancing,2024.0
+BlackBerry Limited,BB,2025,0,,
+Blink Charging Co.,BLNK,2023,1,Operating Cash Deficit / Restructuring Plan,2024.0
+Blink Charging Co.,BLNK,2024,1,Operating Cash Deficit / Restructuring Plan,2024.0
+Blink Charging Co.,BLNK,2025,0,,
+"Beyond Meat, Inc.",BYND,2023,1,Balance Sheet Restructuring / Going Concern Evaluation,2024.0
+"Beyond Meat, Inc.",BYND,2024,1,Balance Sheet Restructuring / Going Concern Evaluation,2024.0
+"Beyond Meat, Inc.",BYND,2025,0,,
+Carnival Corporation & plc,CCL,2023,1,Post-Pandemic Distressed Debt Refinancing,2023.0
+Carnival Corporation & plc,CCL,2024,0,,
+Carnival Corporation & plc,CCL,2025,0,,
+"ChargePoint Holdings, Inc.",CHPT,2023,1,Restructuring / Severe Cash Burn,2024.0
+"ChargePoint Holdings, Inc.",CHPT,2024,1,Restructuring / Severe Cash Burn,2024.0
+"ChargePoint Holdings, Inc.",CHPT,2025,0,,
+"Clover Health Investments, Corp.",CLOV,2023,1,Major Operating Deficits & Restructuring,2023.0
+"Clover Health Investments, Corp.",CLOV,2024,0,,
+"Clover Health Investments, Corp.",CLOV,2025,0,,
+Costco Wholesale Corporation,COST,2023,0,,
+Costco Wholesale Corporation,COST,2024,0,,
+Costco Wholesale Corporation,COST,2025,0,,
+"Cisco Systems, Inc.",CSCO,2023,0,,
+"Cisco Systems, Inc.",CSCO,2024,0,,
+"Cisco Systems, Inc.",CSCO,2025,0,,
+Carvana Co.,CVNA,2023,1,Out-of-Court Distressed Debt Exchange,2023.0
+Carvana Co.,CVNA,2024,0,,
+Carvana Co.,CVNA,2025,0,,
+Chevron Corporation,CVX,2023,0,,
+Chevron Corporation,CVX,2024,0,,
+Chevron Corporation,CVX,2025,0,,
+FuboTV Inc.,FUBO,2023,1,Going Concern Warning / Legal Liquidity Injunction,2023.0
+FuboTV Inc.,FUBO,2024,0,,
+FuboTV Inc.,FUBO,2025,0,,
+Alphabet Inc.,GOOGL,2023,0,,
+Alphabet Inc.,GOOGL,2024,0,,
+Alphabet Inc.,GOOGL,2025,0,,
+"GoPro, Inc.",GPRO,2023,1,Operational Restructuring & Workforce Reductions,2024.0
+"GoPro, Inc.",GPRO,2024,1,Operational Restructuring & Workforce Reductions,2024.0
+"GoPro, Inc.",GPRO,2025,0,,
+"The Home Depot, Inc.",HD,2023,0,,
+"The Home Depot, Inc.",HD,2024,0,,
+"The Home Depot, Inc.",HD,2025,0,,
+Johnson & Johnson,JNJ,2023,0,,
+Johnson & Johnson,JNJ,2024,0,,
+Johnson & Johnson,JNJ,2025,0,,
+JPMorgan Chase & Co.,JPM,2023,0,,
+JPMorgan Chase & Co.,JPM,2024,0,,
+JPMorgan Chase & Co.,JPM,2025,0,,
+The Coca-Cola Company,KO,2023,0,,
+The Coca-Cola Company,KO,2024,0,,
+The Coca-Cola Company,KO,2025,0,,
+Kohl's Corporation,KSS,2023,1,Severe Operating Profit Erosion & Credit Facility Amendments,2024.0
+Kohl's Corporation,KSS,2024,1,Severe Operating Profit Erosion & Credit Facility Amendments,2024.0
+Kohl's Corporation,KSS,2025,0,,
+"Lucid Group, Inc.",LCID,2023,1,Sustained Operating Deficit / Dilutive Emergency Financing,2024.0
+"Lucid Group, Inc.",LCID,2024,1,Sustained Operating Deficit / Dilutive Emergency Financing,2024.0
+"Lucid Group, Inc.",LCID,2025,0,,
+Linde plc,LIN,2023,0,,
+Linde plc,LIN,2024,0,,
+Linde plc,LIN,2025,0,,
+"Lumen Technologies, Inc.",LUMN,2023,1,Comprehensive Distressed Debt Restructuring,2024.0
+"Lumen Technologies, Inc.",LUMN,2024,1,Comprehensive Distressed Debt Restructuring,2024.0
+"Lumen Technologies, Inc.",LUMN,2025,0,,
+McDonald's Corporation,MCD,2023,0,,
+McDonald's Corporation,MCD,2024,0,,
+McDonald's Corporation,MCD,2025,0,,
+Microsoft Corporation,MSFT,2023,0,,
+Microsoft Corporation,MSFT,2024,0,,
+Microsoft Corporation,MSFT,2025,0,,
+"MicroVision, Inc.",MVIS,2023,1,Going Concern & Continuous ATM Equity Financing,2023.0
+"MicroVision, Inc.",MVIS,2024,0,,
+"MicroVision, Inc.",MVIS,2025,0,,
+Norwegian Cruise Line Holdings Ltd.,NCLH,2023,1,Elevated Debt / Interest Coverage Deficit,2023.0
+Norwegian Cruise Line Holdings Ltd.,NCLH,2024,0,,
+Norwegian Cruise Line Holdings Ltd.,NCLH,2025,0,,
+"NextEra Energy, Inc.",NEE,2023,0,,
+"NextEra Energy, Inc.",NEE,2024,0,,
+"NextEra Energy, Inc.",NEE,2025,0,,
+"NIKE, Inc.",NKE,2023,0,,
+"NIKE, Inc.",NKE,2024,0,,
+"NIKE, Inc.",NKE,2025,0,,
+NVIDIA Corporation,NVDA,2023,0,,
+NVIDIA Corporation,NVDA,2024,0,,
+NVIDIA Corporation,NVDA,2025,0,,
+Opendoor Technologies Inc.,OPEN,2023,1,Severe Inventory Write-downs & Heavy Losses,2023.0
+Opendoor Technologies Inc.,OPEN,2024,0,,
+Opendoor Technologies Inc.,OPEN,2025,0,,
+Paramount Global,PARA,2023,1,Credit Rating Downgrade to Junk / $6B Impairment,2024.0
+Paramount Global,PARA,2024,1,Credit Rating Downgrade to Junk / $6B Impairment,2024.0
+Paramount Global,PARA,2025,0,,
+"PepsiCo, Inc.",PEP,2023,0,,
+"PepsiCo, Inc.",PEP,2024,0,,
+"PepsiCo, Inc.",PEP,2025,0,,
+Procter & Gamble Company,PG,2023,0,,
+Procter & Gamble Company,PG,2024,0,,
+Procter & Gamble Company,PG,2025,0,,
+Plug Power Inc.,PLUG,2023,1,Formal Going Concern Qualification (Form 10-K),2023.0
+Plug Power Inc.,PLUG,2024,0,,
+Plug Power Inc.,PLUG,2025,0,,
+"Peloton Interactive, Inc.",PTON,2023,1,Comprehensive Debt Refinancing & Restructuring,2024.0
+"Peloton Interactive, Inc.",PTON,2024,1,Comprehensive Debt Refinancing & Restructuring,2024.0
+"Peloton Interactive, Inc.",PTON,2025,0,,
+"Rivian Automotive, Inc.",RIVN,2023,1,Cash Burn Deficit / Capital Support Agreement,2024.0
+"Rivian Automotive, Inc.",RIVN,2024,1,Cash Burn Deficit / Capital Support Agreement,2024.0
+"Rivian Automotive, Inc.",RIVN,2025,0,,
+EchoStar Corporation / DISH,SATS,2023,1,Distressed Debt Exchange & Severe Liquidity Deficit,2024.0
+EchoStar Corporation / DISH,SATS,2024,1,Distressed Debt Exchange & Severe Liquidity Deficit,2024.0
+EchoStar Corporation / DISH,SATS,2025,0,,
+"Virgin Galactic Holdings, Inc.",SPCE,2023,1,Severe Cash Drain / Restructuring,2024.0
+"Virgin Galactic Holdings, Inc.",SPCE,2024,1,Severe Cash Drain / Restructuring,2024.0
+"Virgin Galactic Holdings, Inc.",SPCE,2025,0,,
+Thermo Fisher Scientific Inc.,TMO,2023,0,,
+Thermo Fisher Scientific Inc.,TMO,2024,0,,
+Thermo Fisher Scientific Inc.,TMO,2025,0,,
+"Upstart Holdings, Inc.",UPST,2023,1,Credit Performance Deterioration & Loan Impairment,2023.0
+"Upstart Holdings, Inc.",UPST,2024,0,,
+"Upstart Holdings, Inc.",UPST,2025,0,,
+Visa Inc.,V,2023,0,,
+Visa Inc.,V,2024,0,,
+Visa Inc.,V,2025,0,,
+"Warner Bros. Discovery, Inc.",WBD,2023,1,Massive Goodwill Impairment ($9.1B) & Debt Burden,2024.0
+"Warner Bros. Discovery, Inc.",WBD,2024,1,Massive Goodwill Impairment ($9.1B) & Debt Burden,2024.0
+"Warner Bros. Discovery, Inc.",WBD,2025,0,,
+Walmart Inc.,WMT,2023,0,,
+Walmart Inc.,WMT,2024,0,,
+Walmart Inc.,WMT,2025,0,,
+Exxon Mobil Corporation,XOM,2023,0,,
+Exxon Mobil Corporation,XOM,2024,0,,
+Exxon Mobil Corporation,XOM,2025,0,,
